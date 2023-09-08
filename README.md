@@ -12,7 +12,7 @@ Depending on the opamps the usable bandwith can be in excess of 10 MHz.
 
 The power supply is done via a USB-C connector and a DC/DC converter for galvanic isolation.
 
-I've tried to different opamps, which whom the Diff-Probe can reach the following bandwidths:
+I've tried two different opamps, with whom the Diff-Probe can reach the following bandwidths:
 
 | Opamp  | Opamp bandwith | Probe bandwidth | Cost per opamp |
 | -----  | -------------- | --------------- | ------ |
